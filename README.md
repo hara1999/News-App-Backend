@@ -8,4 +8,12 @@ A scalable backend service built with Node.js, designed for delivering real-time
 - **External API:** NewsAPI
 - **Version Control:** Git
 
+# Key Features
+**Real-Time News Delivery**
+  - Integrates with NewsAPI to fetch the latest news dynamically.
+  - Provides user-specific and categorized news feeds.
+**Secure Authentication**
+  - Implements secure user authentication using bcryptjs for password hashing.
+  - Supports token-based authentication using JWT for secure API access.
+
 
